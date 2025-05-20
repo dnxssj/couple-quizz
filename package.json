@@ -1,0 +1,19 @@
+{
+  "name": "pareja-quiz-app",
+  "version": "1.0.0",
+  "description": "Mini juego para ver cuánto conoce tu pareja sobre ti",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
